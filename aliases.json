@@ -15,6 +15,10 @@
         "name": " SRV: dns ",
         "vpn": true
     },
+    "02:bf:ef:ca:fe:5a" : {
+        "name": " SRV: develop ",
+        "vpn": true
+    },
     "04:be:ef:ca:fe:07" : {
         "name": " SRV: bb0 ",
         "vpn": true
