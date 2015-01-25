@@ -103,10 +103,10 @@
         "name": " SRV: Muensterland ",
         "vpn": true
     },
-    "8e:95:83:db:82:18" : {
-        "name": "FF-RE-BS-01",
+    "c4:6e:1f:ff:28:23" : {
+        "name": "FF-DO-Adlerstrasse-003",
         "vpn": true,
-        "gps": "51.608868 7.144511"
+        "gps": "51.51158 7.443591"
     }
 }
 
