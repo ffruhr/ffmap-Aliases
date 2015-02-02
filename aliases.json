@@ -67,8 +67,8 @@
         "name": " SRV: ffrg8 (Netcup 05) ",
         "vpn": true
     },
-    "04:bf:ef:ca:fe:ee" : {
-        "name": " SRV: ffrg9 (IN-Berlin 05) ",
+    "04:bf:ef:ca:fe:4f" : {
+        "name": " SRV: ffrg9 (Netcup 06) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:fe" : {
