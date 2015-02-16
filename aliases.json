@@ -47,8 +47,8 @@
         "name": " SRV: ffrg3 (Tilaa > IN-Berlin 04) ",
         "vpn": true
     },
-    "02:bf:ef:ca:fe:88" : {
-        "name": " SRV: ffrg4 (offline) ",
+    "02:bf:ef:ca:fe:6a" : {
+        "name": " SRV: ffrg4 (Webtropia) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4a" : {
