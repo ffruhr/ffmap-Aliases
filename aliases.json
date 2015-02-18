@@ -1,26 +1,26 @@
 {
     "04:be:ef:ca:fe:03" : {
-        "name": " SRV: register ",
+        "name": " 0SRV: register ",
         "vpn": true
     },
     "04:ee:ef:ca:fe:01" : {
-        "name": " SRV: app ",
+        "name": " 0SRV: app ",
         "vpn": true
     },
     "04:ee:ef:ca:fe:02" : {
-        "name": " SRV: ticket ",
+        "name": " 0SRV: ticket ",
         "vpn": true
     },
     "04:be:ef:ca:fe:06" : {
-        "name": " SRV: dns ",
+        "name": " 0SRV: dns ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:5a" : {
-        "name": " SRV: develop ",
+        "name": " 0SRV: develop ",
         "vpn": true
     },
     "04:be:ef:ca:fe:07" : {
-        "name": " SRV: bb0 ",
+        "name": " 0SRV: bb0 ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:02" : {
@@ -32,51 +32,51 @@
         "vpn": true
     },
     "04:bf:ef:ca:fe:11" : {
-        "name": " _SRV_: ffrg0 (IN-Berlin 01) ",
+        "name": " 0SRV: ffrg0 (IN-Berlin 01) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:12" : {
-        "name": " _SRV_: ffrg1 (IN-Berlin 02) ",
+        "name": " 0SRV: ffrg1 (IN-Berlin 02) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:04" : {
-        "name": " _SRV_: ffrg2 (Tilaa > IN-Berlin 03) ",
+        "name": " 0SRV: ffrg2 (Tilaa > IN-Berlin 03) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:05" : {
-        "name": " _SRV_: ffrg3 (Tilaa > IN-Berlin 04) ",
+        "name": " 0SRV: ffrg3 (Tilaa > IN-Berlin 04) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6a" : {
-        "name": " _SRV_: ffrg4 (Webtropia) ",
+        "name": " 0SRV: ffrg4 (Webtropia) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4a" : {
-        "name": " _SRV_: ffrg5 (Netcup 01) ",
+        "name": " 0SRV: ffrg5 (Netcup 01) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4b" : {
-        "name": " _SRV_: ffrg6 (Netcup 02) ",
+        "name": " 0SRV: ffrg6 (Netcup 02) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4c" : {
-        "name": " _SRV_: ffrg7 (Netcup 03) ",
+        "name": " 0SRV: ffrg7 (Netcup 03) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4d" : {
-        "name": " _SRV_: ffrg8 (Netcup 04) ",
+        "name": " 0SRV: ffrg8 (Netcup 04) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:4f" : {
-        "name": " _SRV_: ffrg9 (Netcup 05) ",
+        "name": " 0SRV: ffrg9 (Netcup 05) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:fe" : {
-        "name": " _SRV_: ffrg10 (Netcup 06) ",
+        "name": " 0SRV: ffrg10 (Netcup 06) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6b" : {
-        "name": " _SRV_: ffrg11 (Webtropia) ",
+        "name": " 0SRV: ffrg11 (Webtropia) ",
         "vpn": true
     },
     "8e:95:83:db:82:cc" : {
