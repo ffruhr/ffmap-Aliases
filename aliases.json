@@ -24,11 +24,11 @@
         "vpn": true
     },
     "04:bf:ef:ca:fe:02" : {
-        "name": " SRV EoL: ffrg104 (OBone) ",
+        "name": " EoL: ffrg104 (OBone) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:01" : {
-        "name": " SRV EoL: ffrg004 (OBone) ",
+        "name": " EoL: ffrg004 (OBone) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:11" : {
