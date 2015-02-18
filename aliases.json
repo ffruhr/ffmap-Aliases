@@ -32,81 +32,57 @@
         "vpn": true
     },
     "04:bf:ef:ca:fe:11" : {
-        "name": " SRV: ffrg0 (IN-Berlin 01) ",
+        "name": " _SRV_: ffrg0 (IN-Berlin 01) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:12" : {
-        "name": " SRV: ffrg1 (IN-Berlin 02) ",
+        "name": " _SRV_: ffrg1 (IN-Berlin 02) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:04" : {
-        "name": " SRV: ffrg2 (Tilaa > IN-Berlin 03) ",
+        "name": " _SRV_: ffrg2 (Tilaa > IN-Berlin 03) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:05" : {
-        "name": " SRV: ffrg3 (Tilaa > IN-Berlin 04) ",
+        "name": " _SRV_: ffrg3 (Tilaa > IN-Berlin 04) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6a" : {
-        "name": " SRV: ffrg4 (Webtropia) ",
+        "name": " _SRV_: ffrg4 (Webtropia) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4a" : {
-        "name": " SRV: ffrg5 (Netcup 01) ",
+        "name": " _SRV_: ffrg5 (Netcup 01) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4b" : {
-        "name": " SRV: ffrg6 (Netcup 02) ",
+        "name": " _SRV_: ffrg6 (Netcup 02) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4c" : {
-        "name": " SRV: ffrg7 (Netcup 03) ",
+        "name": " _SRV_: ffrg7 (Netcup 03) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4d" : {
-        "name": " SRV: ffrg8 (Netcup 04) ",
+        "name": " _SRV_: ffrg8 (Netcup 04) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:4f" : {
-        "name": " SRV: ffrg9 (Netcup 05) ",
+        "name": " _SRV_: ffrg9 (Netcup 05) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:fe" : {
-        "name": " SRV: ffrg10 (Netcup 06) ",
+        "name": " _SRV_: ffrg10 (Netcup 06) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6b" : {
-        "name": " SRV: ffrg11 (Webtropia) ",
+        "name": " _SRV_: ffrg11 (Webtropia) ",
         "vpn": true
-    },
-    "04:be:ef:ca:fe:11" : {
-        "name": "FF-BO-HIL-01",
-        "vpn": true,
-        "gps": "51.508646 7.245240"
-    },
-    "04:be:ef:ca:fe:ab" : {
-        "name": "FF-BO-HIL-02",
-        "vpn": true,
-        "gps": "51.508445 7.244211"
-    },
-    "04:be:ef:ca:fe:13" : {
-        "name": "FF-BO-HIL-03",
-        "vpn": true,
-        "gps": "51.508194 7.243777"
     },
     "8e:95:83:db:82:cc" : {
         "name": "FF-WES-GW-01",
         "vpn": true,
         "gps": "51.548133 6.658261"
-    },
-    "2a:2a:7a:7f:14:f1" : {
-        "name": " SRV: Muensterland ",
-        "vpn": true
-    },
-    "c4:6e:1f:ff:28:23" : {
-        "name": "FF-DO-Adlerstrasse-003",
-        "vpn": true,
-        "gps": "51.51158 7.443591"
     }
 }
 
