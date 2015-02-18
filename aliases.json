@@ -75,8 +75,8 @@
         "name": " SRV: ffrg10 (Netcup 06) ",
         "vpn": true
     },
-    "02:bf:ef:ca:fe:ff" : {
-        "name": " SRV: ffrg11 (Netcup 07) ",
+    "02:bf:ef:ca:fe:6b" : {
+        "name": " SRV: ffrg11 (Webtropia) ",
         "vpn": true
     },
     "04:be:ef:ca:fe:11" : {
