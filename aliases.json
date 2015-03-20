@@ -59,6 +59,10 @@
         "name": " 0SRV: ffrg3-2 (Webtropia) ",
         "vpn": true
     },
+    "02:bf:ef:ca:fe:7b" : {
+        "name": " 0SRV: ffrg3-3 (Webtropia) ",
+        "vpn": true
+    },
     "02:bf:ef:ca:fe:6a" : {
         "name": " 0SRV: ffrg4 (Webtropia) ",
         "vpn": true
