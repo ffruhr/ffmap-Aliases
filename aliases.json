@@ -51,7 +51,7 @@
         "name": " 0SRV: ffrg2-3 (Netcup) ",
         "vpn": true
     },
-    "02:bf:ef:ca:fe:7c" : {
+    "02:bf:ef:ca:fe:8a" : {
         "name": " 0SRV: ffrg2-4 (OVH) ",
         "vpn": true
     },
@@ -67,7 +67,7 @@
         "name": " 0SRV: ffrg3-3 (Webtropia) ",
         "vpn": true
     },
-    "02:bf:ef:ca:fe:7d" : {
+    "02:bf:ef:ca:fe:8b" : {
         "name": " 0SRV: ffrg3-4 (OVH) ",
         "vpn": true
     },
