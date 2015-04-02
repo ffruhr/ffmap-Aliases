@@ -51,6 +51,10 @@
         "name": " 0SRV: ffrg2-3 (Netcup) ",
         "vpn": true
     },
+    "04:bf:ef:ca:fe:7c" : {
+        "name": " 0SRV: ffrg2-4 (OVH) ",
+        "vpn": true
+    },
     "04:bf:ef:ca:fe:05" : {
         "name": " 0SRV: ffrg3 (Tilaa > IN-Berlin) ",
         "vpn": true
@@ -61,6 +65,10 @@
     },
     "02:bf:ef:ca:fe:7b" : {
         "name": " 0SRV: ffrg3-3 (Webtropia) ",
+        "vpn": true
+    },
+    "02:bf:ef:ca:fe:7d" : {
+        "name": " 0SRV: ffrg3-4 (OVH) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6a" : {
