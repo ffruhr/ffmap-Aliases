@@ -229,7 +229,7 @@
     "hostname": "0SRV: ffrg10 (Netcup)",
     "network": {
       "mesh_interfaces": [
-        "04:bf:ef:ca:fe:4f"
+        "04:bf:ef:ca:fe:fe"
       ]
     }
   },
