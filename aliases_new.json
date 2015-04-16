@@ -193,6 +193,7 @@
     "hostname": "0SRV: ffrg6 (Netcup)",
     "network": {
       "mesh_interfaces": [
+        "04:bf:ef:ca:fe:4b",
         "02:bf:ef:ca:fe:4b"
       ]
     }
