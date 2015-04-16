@@ -1,6 +1,6 @@
 [
   {
-    "node_id": "0SRV: register",
+    "node_id": "register",
     "hostname": "0SRV: register",
     "network": {
       "mesh_interfaces": [
@@ -9,7 +9,7 @@
     }
   },
   {
-    "node_id": "0SRV: app",
+    "node_id": "app",
     "hostname": "0SRV: app",
     "network": {
       "mesh_interfaces": [
@@ -18,7 +18,7 @@
     }
   },
   {
-    "node_id": "0SRV: ticket",
+    "node_id": "ticket",
     "hostname": "0SRV: ticket",
     "network": {
       "mesh_interfaces": [
@@ -27,7 +27,7 @@
     }
   },
   {
-    "node_id": "0SRV: dns",
+    "node_id": "dns",
     "hostname": "0SRV: dns",
     "network": {
       "mesh_interfaces": [
@@ -36,7 +36,7 @@
     }
   },
   {
-    "node_id": "0SRV: develop",
+    "node_id": "develop",
     "hostname": "0SRV: develop",
     "network": {
       "mesh_interfaces": [
@@ -45,7 +45,7 @@
     }
   },
   {
-    "node_id": "0SRV: bb0",
+    "node_id": "bb0",
     "hostname": "0SRV: bb0",
     "network": {
       "mesh_interfaces": [
@@ -54,7 +54,7 @@
     }
   },
   {
-    "node_id": "EoL: ffrg104 (OBone)",
+    "node_id": "ffrg104",
     "hostname": "EoL: ffrg104 (OBone)",
     "network": {
       "mesh_interfaces": [
@@ -63,16 +63,7 @@
     }
   },
   {
-    "node_id": "",
-    "hostname": "",
-    "network": {
-      "mesh_interfaces": [
-        "02:bf:ef:ca:fe:02"
-      ]
-    }
-  },
-  {
-    "node_id": "EoL: ffrg104 (OBone)",
+    "node_id": "ffrg104",
     "hostname": "EoL: ffrg104 (OBone)",
     "network": {
       "mesh_interfaces": [
@@ -81,7 +72,7 @@
     }
   },
   {
-    "node_id": "EoL: ffrg004 (OBone)",
+    "node_id": "ffrg004",
     "hostname": "EoL: ffrg004 (OBone)",
     "network": {
       "mesh_interfaces": [
@@ -90,7 +81,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg0 (IN-Berlin)",
+    "node_id": "ffrg0",
     "hostname": "0SRV: ffrg0 (IN-Berlin)",
     "network": {
       "mesh_interfaces": [
@@ -99,7 +90,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg1 (IN-Berlin)",
+    "node_id": "ffrg1",
     "hostname": "0SRV: ffrg1 (IN-Berlin)",
     "network": {
       "mesh_interfaces": [
@@ -108,7 +99,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg2 (Tilaa > IN-Berlin)",
+    "node_id": "ffrg2",
     "hostname": "0SRV: ffrg2 (Tilaa > IN-Berlin)",
     "network": {
       "mesh_interfaces": [
@@ -117,7 +108,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg2-2 (Webtropia)",
+    "node_id": "ffrg2-2",
     "hostname": "0SRV: ffrg2-2 (Webtropia)",
     "network": {
       "mesh_interfaces": [
@@ -126,7 +117,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg2-3 (Netcup)",
+    "node_id": "ffrg2-3",
     "hostname": "0SRV: ffrg2-3 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -135,7 +126,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg2-4 (OVH)",
+    "node_id": "ffrg2-4",
     "hostname": "0SRV: ffrg2-4 (OVH)",
     "network": {
       "mesh_interfaces": [
@@ -144,7 +135,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg3 (Tilaa > IN-Berlin)",
+    "node_id": "ffrg3",
     "hostname": "0SRV: ffrg3 (Tilaa > IN-Berlin)",
     "network": {
       "mesh_interfaces": [
@@ -153,7 +144,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg3-2 (Webtropia)",
+    "node_id": "ffrg3-2",
     "hostname": "0SRV: ffrg3-2 (Webtropia)",
     "network": {
       "mesh_interfaces": [
@@ -162,7 +153,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg3-3 (Webtropia)",
+    "node_id": "ffrg3-3",
     "hostname": "0SRV: ffrg3-3 (Webtropia)",
     "network": {
       "mesh_interfaces": [
@@ -171,7 +162,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg3-4 (OVH)",
+    "node_id": "ffrg3-4",
     "hostname": "0SRV: ffrg3-4 (OVH)",
     "network": {
       "mesh_interfaces": [
@@ -180,7 +171,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg4 (Webtropia)",
+    "node_id": "ffrg4",
     "hostname": "0SRV: ffrg4 (Webtropia)",
     "network": {
       "mesh_interfaces": [
@@ -189,7 +180,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg5 (Netcup)",
+    "node_id": "ffrg5",
     "hostname": "0SRV: ffrg5 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -198,7 +189,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg6 (Netcup)",
+    "node_id": "ffrg6",
     "hostname": "0SRV: ffrg6 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -207,7 +198,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg7 (Netcup)",
+    "node_id": "ffrg7",
     "hostname": "0SRV: ffrg7 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -216,7 +207,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg8 (Netcup)",
+    "node_id": "ffrg8",
     "hostname": "0SRV: ffrg8 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -225,7 +216,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg9 (Netcup)",
+    "node_id": "ffrg9",
     "hostname": "0SRV: ffrg9 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -234,7 +225,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg10 (Netcup)",
+    "node_id": "ffrg10",
     "hostname": "0SRV: ffrg10 (Netcup)",
     "network": {
       "mesh_interfaces": [
@@ -243,7 +234,7 @@
     }
   },
   {
-    "node_id": "0SRV: ffrg11 (Webtropia)",
+    "node_id": "ffrg11",
     "hostname": "0SRV: ffrg11 (Webtropia)",
     "network": {
       "mesh_interfaces": [
