@@ -7,20 +7,12 @@
         "name": " 0SRV: app ",
         "vpn": true
     },
-    "04:ee:ef:ca:fe:02" : {
-        "name": " 0SRV: ticket ",
-        "vpn": true
-    },
     "04:be:ef:ca:fe:06" : {
         "name": " 0SRV: dns ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:5a" : {
         "name": " 0SRV: develop ",
-        "vpn": true
-    },
-    "04:be:ef:ca:fe:07" : {
-        "name": " 0SRV: bb0 ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:02" : {
