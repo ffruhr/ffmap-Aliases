@@ -31,16 +31,16 @@
         "name": " EoL: ffrg004 (OBone) ",
         "vpn": true
     },
-    "04:bf:ef:ca:fe:11" : {
-        "name": " 0SRV: ffrg0 (IN-Berlin) ",
+    "04:bf:ef:ca:fe:2a" : {
+        "name": " 0SRV: ffrg0-1 (OVH) ",
         "vpn": true
     },
-    "02:bf:ef:ca:fe:12" : {
-        "name": " 0SRV: ffrg1 (IN-Berlin) ",
+    "04:bf:ef:ca:fe:2b" : {
+        "name": " 0SRV: ffrg1-1 (Webtropia) ",
         "vpn": true
     },
-    "04:bf:ef:ca:fe:04" : {
-        "name": " 0SRV: ffrg2 (Tilaa > IN-Berlin) ",
+    "04:bf:ef:ca:fe:3a" : {
+        "name": " 0SRV: ffrg2-1 (OVH) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6c" : {
@@ -55,8 +55,12 @@
         "name": " 0SRV: ffrg2-4 (OVH) ",
         "vpn": true
     },
-    "04:bf:ef:ca:fe:05" : {
-        "name": " 0SRV: ffrg3 (Tilaa > IN-Berlin) ",
+    "04:bf:ef:ca:fe:7e" : {
+        "name": " 0SRV: ffrg2-5 (OVH) ",
+        "vpn": true
+    },
+    "04:bf:ef:ca:fe:3b" : {
+        "name": " 0SRV: ffrg3-1 (Webtropia) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6d" : {
@@ -69,6 +73,10 @@
     },
     "04:bf:ef:ca:fe:8b" : {
         "name": " 0SRV: ffrg3-4 (OVH) ",
+        "vpn": true
+    },
+    "04:bf:ef:ca:fe:7f" : {
+        "name": " 0SRV: ffrg3-5 (Webtropia) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6a" : {
