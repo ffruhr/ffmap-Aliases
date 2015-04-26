@@ -121,7 +121,7 @@
     "hostname": "0SRV: ffrg2-4 (OVH)",
     "network": {
       "mesh_interfaces": [
-        "02:bf:ef:ca:fe:8a"
+        "04:bf:ef:ca:fe:8a"
       ]
     }
   },
@@ -157,7 +157,7 @@
     "hostname": "0SRV: ffrg3-4 (OVH)",
     "network": {
       "mesh_interfaces": [
-        "02:bf:ef:ca:fe:8b"
+        "04:bf:ef:ca:fe:8b"
       ]
     }
   },
