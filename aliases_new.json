@@ -18,15 +18,6 @@
     }
   },
   {
-    "node_id": "ticket",
-    "hostname": "0SRV: ticket",
-    "network": {
-      "mesh_interfaces": [
-        "04:ee:ef:ca:fe:02"
-      ]
-    }
-  },
-  {
     "node_id": "dns",
     "hostname": "0SRV: dns",
     "network": {
