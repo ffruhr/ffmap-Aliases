@@ -144,6 +144,15 @@
     }
   },
   {
+    "node_id": "ffrg3-1",
+    "hostname": "0SRV: ffrg3-1 (Webtropia)",
+    "network": {
+      "mesh_interfaces": [
+        "02:bf:ef:ca:fe:3b"
+      ]
+    }
+  },
+  {
     "node_id": "ffrg3-2",
     "hostname": "0SRV: ffrg3-2 (Webtropia)",
     "network": {
