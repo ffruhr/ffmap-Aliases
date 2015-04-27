@@ -126,6 +126,15 @@
     }
   },
   {
+    "node_id": "ffrg2-5",
+    "hostname": "0SRV: ffrg2-5 (OVH)",
+    "network": {
+      "mesh_interfaces": [
+        "04:bf:ef:ca:fe:7e"
+      ]
+    }
+  },
+  {
     "node_id": "ffrg3",
     "hostname": "0SRV: ffrg3 (Tilaa > IN-Berlin)",
     "network": {
