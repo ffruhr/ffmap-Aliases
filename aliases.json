@@ -3,6 +3,10 @@
         "name": " 0SRV: register ",
         "vpn": true
     },
+    "02:bf:ef:ca:fe:10" : {
+        "name": " 0SRV: bb01 (icvpn) ",
+        "vpn": true
+    },
     "04:ee:ef:ca:fe:01" : {
         "name": " 0SRV: app ",
         "vpn": true
