@@ -32,7 +32,7 @@
         "vpn": true
     },
     "04:bf:ef:ca:fe:2b" : {
-        "name": " 0SRV: ffrg1-1 (Webtropia) ",
+        "name": " 0SRV: ffrg1-1 (Myloc) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:3a" : {
@@ -40,11 +40,7 @@
         "vpn": true
     },
     "02:bf:ef:ca:fe:6c" : {
-        "name": " 0SRV: ffrg2-2 (Webtropia) ",
-        "vpn": true
-    },
-    "04:bf:ef:ca:fe:7a" : {
-        "name": " 0SRV: ffrg2-3 (Netcup) ",
+        "name": " 0SRV: ffrg2-2 (Myloc) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:8a" : {
@@ -56,15 +52,15 @@
         "vpn": true
     },
     "02:bf:ef:ca:fe:3b" : {
-        "name": " 0SRV: ffrg3-1 (Webtropia) ",
+        "name": " 0SRV: ffrg3-1 (Myloc) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:6d" : {
-        "name": " 0SRV: ffrg3-2 (Webtropia) ",
+        "name": " 0SRV: ffrg3-2 (Myloc) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:7b" : {
-        "name": " 0SRV: ffrg3-3 (Webtropia) ",
+        "name": " 0SRV: ffrg3-3 (Myloc) ",
         "vpn": true
     },
     "04:bf:ef:ca:fe:8b" : {
@@ -72,39 +68,27 @@
         "vpn": true
     },
     "04:bf:ef:ca:fe:7f" : {
-        "name": " 0SRV: ffrg3-5 (Webtropia) ",
+        "name": " 0SRV: ffrg3-5 (Myloc) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6a" : {
-        "name": " 0SRV: ffrg4 (Webtropia) ",
+        "name": " 0SRV: ffrg4 (Myloc) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4a" : {
-        "name": " 0SRV: ffrg5 (Netcup) ",
+        "name": " 0SRV: ffrg5 (Myloc) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4b" : {
-        "name": " 0SRV: ffrg6 (Netcup) ",
+        "name": " 0SRV: ffrg6 (Myloc) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:4c" : {
-        "name": " 0SRV: ffrg7 (Netcup) ",
-        "vpn": true
-    },
-    "02:bf:ef:ca:fe:4d" : {
-        "name": " 0SRV: ffrg8 (Netcup) ",
-        "vpn": true
-    },
-    "04:bf:ef:ca:fe:4f" : {
-        "name": " 0SRV: ffrg9 (Netcup) ",
-        "vpn": true
-    },
-    "04:bf:ef:ca:fe:fe" : {
-        "name": " 0SRV: ffrg10 (Netcup) ",
+        "name": " 0SRV: ffrg7 (Myloc) ",
         "vpn": true
     },
     "02:bf:ef:ca:fe:6b" : {
-        "name": " 0SRV: ffrg11 (Webtropia) ",
+        "name": " 0SRV: ffrg11 (Myloc) ",
         "vpn": true
     },
     "8e:95:83:db:82:cc" : {
